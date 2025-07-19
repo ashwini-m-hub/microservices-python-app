@@ -1,3 +1,11 @@
+# Microservices Python App - Practice Project  
+
+[![Practice](https://img.shields.io/badge/Practiced%20From-Code%20Champ%20YouTube-blue)](https://www.youtube.com/@CodeChamp)
+
+This project was built by **practicing a tutorial from Code Champ on YouTube**.  
+The goal was to learn **Docker**, **Kubernetes (EKS)**, **RabbitMQ**, **MongoDB**, and **AWS S3** while building a microservices-based application.
+
+
 # Devops Project: video-converter
 Converting mp4 videos to mp3 in a microservices architecture.
 
